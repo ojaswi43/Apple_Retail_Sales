@@ -36,7 +36,7 @@ Warranty: Warranty information about warranty claims.
  + Repair_status: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
 
 # Entity Relationship Diagram
-![Logo](https://github.com/ojaswi43/Apple_Retail_Sales/blob/main/Apple_store.jpeg)
+![Logo](https://github.com/ojaswi43/Apple_Retail_Sales/blob/main/ERD.png)
 
 # Objectives 
 1. Find the number of stores in each country.
