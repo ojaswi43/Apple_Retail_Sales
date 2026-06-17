@@ -35,6 +35,9 @@ Warranty: Warranty information about warranty claims.
  + Sale_id: References the sales table.
  + Repair_status: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
 
+# Entity Relationship Diagram
+![Logo](https://github.com/ojaswi43/Apple_Retail_Sales/blob/main/Apple_store.jpeg)
+
 # Objectives 
 1. Find the number of stores in each country.
   ```sql
